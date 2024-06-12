@@ -1,1 +1,1 @@
-mysql
+gitlab/gitlab-ee:17.0.1-ee.0
