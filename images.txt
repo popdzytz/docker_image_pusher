@@ -1,1 +1,3 @@
-gitlab/gitlab-runner
+maven:3.8.6-openjdk-18
+docker:latest
+node:14.20.0
