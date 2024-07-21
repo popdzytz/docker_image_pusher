@@ -1,2 +1,1 @@
-nginx:latest
-node:14.20.0
+nacos/nacos-server:v2.4.0
