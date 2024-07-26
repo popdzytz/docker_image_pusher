@@ -1,3 +1,4 @@
 mariadb:11.2.4
 mongo:5.0.28
 redis:7.2.5
+keking/kkfileview:latest
