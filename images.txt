@@ -4,3 +4,4 @@ redis:7.2.5
 keking/kkfileview:latest
 node:20-slim
 node:20.5.0
+xinjiawei1/emby_unlockd:latest
