@@ -5,3 +5,4 @@ keking/kkfileview:latest
 node:20-slim
 node:20.5.0
 xinjiawei1/emby_unlockd:latest
+gitlab/gitlab-ee:15.6.2-ee.0
