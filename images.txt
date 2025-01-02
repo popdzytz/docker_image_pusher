@@ -1,1 +1,1 @@
-nginx:1.27
+gitlab/gitlab-ee:17.7.0-ee.0
