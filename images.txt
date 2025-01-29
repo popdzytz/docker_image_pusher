@@ -1,1 +1,1 @@
-node:18.12.0
+xinjiawei1/emby_unlockd:4.8.10.0
