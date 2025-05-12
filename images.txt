@@ -1,1 +1,1 @@
- python:3.10
+gitlab/gitlab-runner:latest
