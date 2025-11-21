@@ -1,1 +1,1 @@
-eroadltd/maven-docker:latest
+docker:dind
