@@ -1,1 +1,1 @@
-hythzx/maven-docker:latest
+eroadltd/maven-docker:latest
