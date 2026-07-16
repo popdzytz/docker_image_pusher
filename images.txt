@@ -2,4 +2,4 @@
 
 nginx:latest
 docker:latest
-gitlab-runner:latest
+gitlab/gitlab-runner:latest
