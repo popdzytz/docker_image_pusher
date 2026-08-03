@@ -1,4 +1,4 @@
-
+eclipse-temurin:21-jdk
 
 nginx:latest
 docker:latest
