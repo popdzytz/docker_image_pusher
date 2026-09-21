@@ -1,5 +1,6 @@
-eclipse-temurin:21-jdk
+gitlab/gitlab-ee:19.4.0-ee.0
 
+eclipse-temurin:21-jdk
 nginx:latest
 docker:latest
 gitlab/gitlab-runner:latest
