@@ -1,4 +1,4 @@
-gitlab/gitlab-ee:18.11.9-ee.0
+gitlab/gitlab-ce:19.4.0-ce.0
 gitlab/gitlab-ee:19.4.0-ee.0
 
 eclipse-temurin:21-jdk
